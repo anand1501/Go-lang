@@ -1,8 +1,9 @@
 # Go-lang
 
 UrbanKart is planning to launch an online store. In preparation for that they plan to develop
-an application for online shopping, managing their delivery logistics
-#1. Shopping
+an application for online shopping, managing their delivery logistics.
+
+#1 Shopping
 Develop an application that can be used for online shopping
 1. Allow users to register with mobile numbers, and place(address)
 // return true if Success or false if fails - like mobile number already exists / invalid
